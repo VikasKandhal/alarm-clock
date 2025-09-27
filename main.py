@@ -1,5 +1,6 @@
 #Python Alarm Clock
-#time datetime and pygame
+#time datetime 
+#pygame
 import time
 import datetime
 import pygame
@@ -32,4 +33,5 @@ if __name__ == "__main__":
 
    set_alarm(alarm_time)
 #end of program
+
 
